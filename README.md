@@ -10,7 +10,9 @@ Setting up your Raspberry Pi: https://www.raspberrypi.org/
 Pi2Go robot kit
 ---------------
 Pi2Go robot kit: http://4tronix.co.uk/
+
 Assebly instructions: http://4tronix.co.uk/blog/?p=452
+
 Short Pi2Go tutorials:  www.theraspberrypiguy.com/raspberry-pi-robots/
 
 
